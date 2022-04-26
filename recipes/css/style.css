@@ -7,7 +7,7 @@ body {
 }
 h1 {
   font-size: xxx-large;
-  color: orangered;
+  color: rgb(120, 45, 17);
   outline-style: dashed;
   padding: 0.5cm;
   border-radius: 10px;
